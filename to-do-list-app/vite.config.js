@@ -8,5 +8,5 @@ export default defineConfig({
     react(),
     tailwindcss()
   ],
-  base: '/Todo-List-React/'
+  base: '/todo-react-avancado/'
 })
