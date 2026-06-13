@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+.font-base{
+    font-family: "Rubik";
+    font-weight: 400;
+}
+.ativo{
+    border-bottom: 3px solid rgb(0, 77, 77);
+}
