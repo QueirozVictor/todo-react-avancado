@@ -38,7 +38,7 @@ Aplicação de lista de tarefas desenvolvida com React como parte dos estudos de
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/SEU-USUARIO/Todo-List-React-.git
+git clone https://github.com/QueirozVictor/todo-react-avancado.git
 ```
 
 2. Acesse a pasta do projeto:
